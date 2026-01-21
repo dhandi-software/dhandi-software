@@ -1,114 +1,182 @@
- <div align=center>
-        <img src="https://i.pinimg.com/originals/fb/1e/71/fb1e71a9de9a1ad6c9943da775c6884c.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-    <div align=center>
-          <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Dhandi+%F0%9F%91%8B;Mobile+Apps+Student;Back-End+Engineer;jockey-Programming+In-HighSchool;" alt="Headline" />
-    </div>
-    <div align=center>
-        <a href=""><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href=""><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
-        <a href="><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href=""><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
-        <a href=""><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
-    </div>
-    <div align=left>
-     <br>
-     <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <strong>About Me</strong>
-     <br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-</picture>
-        <br>
-        <p>
-            <strong>
-		    Hello My Name IS Dhandi Adam
-		    <br><br>
-                Mobile Apps Student, Back-End Engineer,Freelancer<br><br>
-                I specialize in Java,C++,Golang and Microsoft SQL Server and I have experience working . Good in Algorithms, Database Systems, Object-Oriented Programming, .<br><br>
-                I am passionate about learning NCS(Networking Cyber Security), all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
-            </strong>
-        </p>
-
-
-<a target="_blank" align="center">[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="75" alt="giphy">](https://t.me/voko_aleksey)
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
-</a>
-
-✔ I am currently developing Golang Object Oriented Programming & Payment Gateway <br>
-✔ I am currently learning Golang & ReactJS <br>
-✔ I want to collaborate with contributions in the world of Programming <br>
-✔ A programming jockey in the college world <br> 
-✔ I am currently teaching as a Practicum Assistant for Data Structure Algorithms in Class G & H on March 3, 2024. <br>
-✔ I am currently a PKM (Student Creativity Program) Committee on February 1, 2024 - March 30, 2024 <br>
-<br>
-✔ Fun fact: At the time of Stress coding, I used to be in half sleep mode <br> <br> <br>
-
-
-#
-
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
-
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***My Skill...***
-<p align="left"> 
-
-
-<br/>
-<br/>
-
-  <code> <img height="40" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"> </code>
-  <code> <img height="40" src="https://www.clipartkey.com/mpngs/m/210-2104705_html-logo-png-transparent-background.png"> </code>
-  <code> <img height="40" src="https://img.favpng.com/14/24/13/css3-cascading-style-sheets-logo-html-markup-language-png-favpng-Tz7AH52MR4DVA6tRKXjDuWuYs.jpg"> </code>
-  <code> <img height="40" src="https://nepcodex.com/wp-content/uploads/2019/07/Golang-700x395.png"> </code>
-  <code> <img height="40" src="https://www.freeiconspng.com/uploads/fbdblog-configurar-phpmyadmin-y-habilitar-el-dise-ador--2.png"> </code>
-  <code> <img height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"> </code>
-  <code> <img height="40" src="https://pluspng.com/img-png/python-logo-png-open-2000.png"> </code>
-  <code> <img height="50" src="https://clipground.com/images/c-logo-1.png"> </code>
-
-#
-**IDE & Code Editor:**  
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://www.coriaweb.hosting/wp-content/uploads/2016/06/logo-og.png"></code>
-<code><img height="40" width="40" src="https://forum.opennmt.net/uploads/default/original/2X/5/568c419c14aca7a2f68749c9fff9598dd1d7b5e1.png"></code>
-<code><img height="40" width="40" src="https://logos-download.com/wp-content/uploads/2019/07/Notepad_Logo.png"></code>
-<code><img height="40" width="40" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-c--logo-icon-32.png"></code>
-
-<br/>
-
- 
-
-
-  <hr>
- 
-
-## Contact us
-
-
-<a href="mailto:dandiadam211@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-
-  <picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></picture>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
+# Dhandi Adam – Full-Stack Developer  
+**React JS | Node JS | PostgreSQL | Laravel | UI/UX Designer**
 
 <div align="center">
+  <img src="https://i.pinimg.com/originals/fb/1e/71/fb1e71a9de9a1ad6c9943da775c6884c.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
 
-<a href="https://github.com/DhandiAdam ">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhandiAdam&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhandiAdam&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="DhandiAdam"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=60&lines=Hi+there+I'm+Dhandi+Adam+%F0%9F%91%8B;Informatics+Student+%7C+Full-Stack+Developer;React+JS+%7C+Node+JS+%7C+PostgreSQL;UI%2FUX+Designer+%7C+Laravel+Expert" alt="Headline" />
+</div>
 
-</a>
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:dandiadam211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 <br>
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+## 👋 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" align="right" alt="Coding GIF">
 </p>
+
+I'm a passionate **Informatics Student** at Universitas Pancasila with a deep interest in **full-stack web development** and **UI/UX design**. Currently maintaining a **3.65/4.00 GPA** while actively participating in various academic and professional activities.
+
+🎯 **Currently Focused On:**
+- 🚀 Building scalable web applications with **React & Node.js**
+- 🎨 Designing intuitive user interfaces with **Figma**
+- 📊 Mastering **PostgreSQL** and database optimization
+- 👨‍🏫 Teaching as a **Practicum Assistant** for Web Programming
+- 💡 Exploring **AI/ML** integration in web applications
+
+💡 **Philosophy:** I believe that combining **creative design** with **strong technical implementation** creates digital solutions that are not only functional but also delightful to use.
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <a href="https://github.com/DhandiAdam">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhandiAdam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117&title_color=6FDA44&icon_color=6FDA44"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhandiAdam&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=6FDA44"/>
+  </a>
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhandiAdam&theme=tokyonight&background=0d1117&border=6FDA44&stroke=6FDA44&ring=6FDA44&fire=6FDA44&currStreakLabel=6FDA44" height="180em"/>
+  
+</div>
+
+<br>
+
+## 🏆 Achievements & Experience
+
+### 🎓 **Education**
+- **Universitas Pancasila** - S1 Teknik Informatika (2022-Present) - GPA: 3.65/4.00
+- **SMK Perguruan Cikini 3** - Multimedia (2019-2022)
+
+### 🏅 **Notable Achievements**
+- 🥈 **Finalist** - Samsung Solve for Tomorrow Competition
+- 👨‍🏫 **Practicum Assistant** for 3 different subjects
+- 🎤 **Guest Lecturer** - Management Information Systems (Figma UI/UX)
+- 🏢 **Graphic Design Intern** - Gagas Studio
+
+### 💼 **Current Roles**
+- 🔧 Full-Stack Developer
+- 🎨 UI/UX Designer
+- 👨‍🏫 Teaching Assistant
+- 👥 Project Committee Member
+
+<br>
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</div>
+
+### **Backend Development**
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+</div>
+
+### **Databases**
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+</div>
+
+### **Design & Tools**
+<div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</div>
+
+<br>
+
+## 🚀 Featured Projects
+
+### **🎓 Kost H. Indu** - *Full Stack Developer*
+> Modern kost management platform with payment gateway integration
+> **Tech:** Golang, Node.js, Tailwind CSS, MySQL
+
+### **📚 E-Book MSD** - *Frontend Developer*
+> E-commerce platform for online bookstore
+> **Tech:** HTML, CSS, JavaScript, Bootstrap
+
+### **🏥 MAVIS Health App** - *Mobile Developer*
+> Personal health assistant with nutrition analysis
+> **Tech:** Dart, Flutter, Camera Integration
+
+### **⚖️ Kejaksaan System** - *Full Stack Developer*
+> Housing management system for Attorney General's Office
+> **Tech:** Laravel, PHP, Tailwind CSS
+
+<br>
+
+## 📞 Let's Connect!
+
+<div align="center">
+  
+  <a href="mailto:dandiadam211@gmail.com">
+    <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" alt="Email"/>
+  </a>
+  <a href="https://wa.me/+6281319240256">
+    <img src="https://img.icons8.com/color/96/000000/whatsapp.png" width="60" alt="WhatsApp"/>
+  </a>
+  <a href="https://github.com/DhandiAdam">
+    <img src="https://img.icons8.com/color/96/000000/github.png" width="60" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/dhandi-software">
+    <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="60" alt="Portfolio"/>
+  </a>
+  
+</div>
+
+<p align="center">
+  <strong>📍 Jakarta, Indonesia</strong><br>
+  <strong>📧 dandiadam211@gmail.com</strong><br>
+  <strong>📱 +62 813 1924 0256</strong>
+</p>
+
+<br>
+
+<div align="center">
+  
+  ## 🐍 Contribution Graph
+  
+  ![Snake animation](https://github.com/DhandiAdam/DhandiAdam/blob/output/github-contribution-grid-snake.svg)
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=DhandiAdam&label=Profile%20Views&color=6FDA44&style=flat" alt="Profile Views" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎵 Coding Mood
+
+  
+</div>
