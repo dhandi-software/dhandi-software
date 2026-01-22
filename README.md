@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=60&lines=Hi+there+I'm+Dhandi+Adam+%F0%9F%91%8B;Informatics+Student+%7C+Full-Stack+Developer;React+JS+%7C+Node+JS+%7C+PostgreSQL;UI%2FUX+Designer+%7C+Laravel+Expert" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=60&lines=Hi+there+I'm+Dhandi+Adam+%F0%9F%91%8B;+%7C+Informatics+Student+%7C+Full-Stack+Developer;React+JS+%7C+Node+JS+%7C+PostgreSQL;UI%2FUX+Designer+%7C+Laravel+Expert" alt="Headline" />
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" align="right" alt="Coding GIF">
 </p>
 
-I'm a passionate **Informatics Student** at Universitas Pancasila with a deep interest in **full-stack web development** and **UI/UX design**. Currently maintaining a **3.65/4.00 GPA** while actively participating in various academic and professional activities.
+I'm a passionate **Informatics Student** at Universitas Pancasila with a deep interest in **full-stack web development** and **UI/UX design**. Currently maintaining a **3.85/4.00 GPA** while actively participating in various academic and professional activities.
 
 🎯 **Currently Focused On:**
 - 🚀 Building scalable web applications with **React & Node.js**
