@@ -30,7 +30,7 @@ I'm a passionate **Informatics Student** at Universitas Pancasila with a deep in
 🎯 **Currently Focused On:**
 - 🚀 Building scalable web applications with **React & Node.js**
 - 🎨 Designing intuitive user interfaces with **Figma**
-- 📊 Mastering **PostgreSQL** and database optimization
+- 📊 Working with **PostgreSQL** and database optimization
 - 👨‍🏫 Teaching as a **Practicum Assistant** for Web Programming
 - 💡 Exploring **AI/ML** integration in web applications
 
