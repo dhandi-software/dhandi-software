@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=60&lines=Hi+there+I'm+Dhandi+Adam+%F0%9F%91%8B;+%7C+Informatics+Student+%7C+Full-Stack+Developer;React+JS+%7C+Node+JS+%7C+PostgreSQL;UI%2FUX+Designer+%7C+Laravel+Expert" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=60&lines=Hi+there+I'm+Dhandi+Adam+%F0%9F%91%8B;+%7C+Informatics+Student+%7C+Full-Stack+Developer;React+JS+%7C+Node+JS+%7C+PostgreSQL;UI%2FUX+Designer+%7C+Laravel" alt="Headline" />
 </div>
 
 <div align="center">
