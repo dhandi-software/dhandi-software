@@ -12,7 +12,7 @@
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/DhandiAdam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:dandiadam211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
@@ -58,27 +58,79 @@ I'm a passionate **Informatics Student** at Universitas Pancasila with a deep in
 ## 🏆 Achievements & Experience
 
 ### 🎓 **Education**
-- **Universitas Pancasila** - S1 Teknik Informatika (2022-Present) - GPA: 3.65/4.00
-- **SMK Perguruan Cikini 3** - Multimedia (2019-2022)
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/student-male.png" align="left" width="48" style="margin-right: 15px;"/>
+  <div>
+    <strong>Universitas Pancasila</strong> - S1 Teknik Informatika (2022-Present)<br>
+    <em>GPA: 3.85/4.00 | Focus: Full-Stack Web Development</em>
+  </div>
+</div>
+
+<br>
+
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/school.png" align="left" width="48" style="margin-right: 15px;"/>
+  <div>
+    <strong>SMK Perguruan Cikini 3</strong> - Multimedia (2019-2022)<br>
+    <em>Graduated with honors | BNSP Certified</em>
+  </div>
+</div>
+
+<br>
 
 ### 🏅 **Notable Achievements**
-- 🥈 **Finalist** - Samsung Solve for Tomorrow Competition
-- 👨‍🏫 **Practicum Assistant** for 3 different subjects
-- 🎤 **Guest Lecturer** - Management Information Systems (Figma UI/UX)
-- 🏢 **Graphic Design Intern** - Gagas Studio
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/trophy.png" align="left" width="48" style="margin-right: 15px;"/>
+  <div>
+    <strong>Finalist</strong> - Samsung Solve for Tomorrow Competition<br>
+    <em>National Level | UI/UX & AI Focus</em>
+  </div>
+</div>
+
+<br>
+
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/teacher.png" align="left" width="48" style="margin-right: 15px;"/>
+  <div>
+    <strong>Practicum Assistant</strong> - 3 Different Subjects<br>
+    <em>Algorithms, Web Programming, Database</em>
+  </div>
+</div>
+
+<br>
+
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/lecturer.png" align="left" width="48" style="margin-right: 15px;"/>
+  <div>
+    <strong>Guest Lecturer</strong> - Management Information Systems<br>
+    <em>Teaching Figma UI/UX Design Principles</em>
+  </div>
+</div>
+
+<br>
+
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/design.png" align="left" width="48" style="margin-right: 15px;"/>
+  <div>
+    <strong>Graphic Design Intern</strong> - Gagas Studio<br>
+    <em>Professional design experience</em>
+  </div>
+</div>
+
+<br>
 
 ### 💼 **Current Roles**
-- 🔧 Full-Stack Developer
-- 🎨 UI/UX Designer
-- 👨‍🏫 Teaching Assistant
-- 👥 Project Committee Member
+- 🔧 **Full-Stack Developer** - Building web applications
+- 🎨 **UI/UX Designer** - Creating intuitive interfaces
+- 👨‍🏫 **Teaching Assistant** - Guiding students
+- 👥 **Project Committee Member** - Organizing tech events
 
 <br>
 
 ## 🛠️ Tech Stack
 
 ### **Frontend Development**
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -88,7 +140,7 @@ I'm a passionate **Informatics Student** at Universitas Pancasila with a deep in
 </div>
 
 ### **Backend Development**
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -97,18 +149,19 @@ I'm a passionate **Informatics Student** at Universitas Pancasila with a deep in
 </div>
 
 ### **Databases**
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </div>
 
 ### **Design & Tools**
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 <br>
@@ -118,18 +171,22 @@ I'm a passionate **Informatics Student** at Universitas Pancasila with a deep in
 ### **🎓 Kost H. Indu** - *Full Stack Developer*
 > Modern kost management platform with payment gateway integration
 > **Tech:** Golang, Node.js, Tailwind CSS, MySQL
+> [View on GitHub](https://github.com/DhandiAdam/Projek-Kontrakan)
 
 ### **📚 E-Book MSD** - *Frontend Developer*
 > E-commerce platform for online bookstore
 > **Tech:** HTML, CSS, JavaScript, Bootstrap
+> [View on GitHub](https://github.com/dhandi-software/EbookMsd)
 
 ### **🏥 MAVIS Health App** - *Mobile Developer*
 > Personal health assistant with nutrition analysis
 > **Tech:** Dart, Flutter, Camera Integration
+> [View on GitHub](https://github.com/dhandi-software/Mavis)
 
 ### **⚖️ Kejaksaan System** - *Full Stack Developer*
 > Housing management system for Attorney General's Office
 > **Tech:** Laravel, PHP, Tailwind CSS
+> [View on GitHub](https://github.com/dhandi-software/Kejaksaan)
 
 <br>
 
@@ -149,6 +206,9 @@ I'm a passionate **Informatics Student** at Universitas Pancasila with a deep in
   <a href="https://github.com/dhandi-software">
     <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="60" alt="Portfolio"/>
   </a>
+  <a href="#">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" alt="LinkedIn"/>
+  </a>
   
 </div>
 
@@ -162,13 +222,13 @@ I'm a passionate **Informatics Student** at Universitas Pancasila with a deep in
 
 <div align="center">
   
-  ## 🐍 Contribution Graph
+  ## 🐍 GitHub Contribution Graph
   
-  ![Snake animation](https://github.com/DhandiAdam/DhandiAdam/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=DhandiAdam&label=Profile%20Views&color=6FDA44&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DhandiAdam&label=Profile%20Views&color=6FDA44&style=for-the-badge" alt="Profile Views" />
   
 </div>
 
@@ -176,7 +236,11 @@ I'm a passionate **Informatics Student** at Universitas Pancasila with a deep in
 
 <div align="center">
   
-  ### 🎵 Coding Mood
-
+  ### 📊 Weekly Development Breakdown
   
-</div>
+  ```text
+  💻 React JS      ████████████░░░░░░░░░░   45%
+  📱 Node.js       ██████████░░░░░░░░░░░░   40%
+  🗄️ PostgreSQL    ████████░░░░░░░░░░░░░░   35%
+  🎨 UI/UX Design  ███████░░░░░░░░░░░░░░░   30%
+  📚 Learning      ██████████████░░░░░░░░   60%
